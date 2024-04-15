@@ -2,4 +2,4 @@ Django==4.2.7  # Latest stable release
 psycopg2-binary==2.9.3  # Compatible with recent PostgreSQL versions
 django-bootstrap4==1.1.1  # Latest minor release
 gunicorn==20.1.0  # Latest stable release
-whitenoise==6.3.1  # Latest stable release
+
