@@ -123,11 +123,12 @@ pydeck==0.8.1b0
 Pygments==2.15.1
 pynput==1.7.6
 pyparsing==3.0.9
-Python >= 3.8
+
 python-dateutil==2.8.2
 python-json-logger==2.0.7
 pytz==2023.3
-pywin32==306
+python>=3.7,<3.11
+pywin32>=305
 pywinpty==2.0.11
 PyYAML==6.0.1
 pyzmq==25.1.0
